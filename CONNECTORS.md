@@ -25,7 +25,7 @@ The plugin synthesizes knowledge from all connected sources. The more sources co
 ## Setting up your Synaply connector
 
 1. Open your AI assistant settings and navigate to Connectors or MCP Servers
-2. Add a new MCP server using the SSE type
+2. Add a new MCP server using the https type
 3. Enter your organization's Synaply MCP URL (provided by your Synaply admin)
 4. Authenticate when prompted
 5. Confirm the connector is active before running a session
