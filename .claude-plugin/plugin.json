@@ -1,9 +1,0 @@
-{
-  "name": "synaply-knowledge-synthesizer",
-  "version": "0.1.0",
-  "description": "Synthesizes knowledge from all connected sources and publishes insights to Synaply. Runs a 10-step workflow: schema retrieval, timeframe resolution, source gathering, synthesis, sanitization, drafting, QA, and publishing.",
-  "author": {
-    "name": "Synaply"
-  },
-  "keywords": ["synaply", "knowledge", "insights", "synthesis", "org-intel"]
-}
