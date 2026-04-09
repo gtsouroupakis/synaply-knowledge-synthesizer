@@ -1,7 +1,0 @@
-{
-  "name": "Synaply Knowledge Synthesizer",
-  "description": "Automatically synthesizes your work activity into organizational knowledge. Connect your email, Slack, calendar, and docs — Claude drafts insights in your voice, mapped to your Synaply schema, ready to publish in one click.",
-  "plugins": [
-    { "path": "." }
-  ]
-}
